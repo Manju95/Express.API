@@ -4,9 +4,7 @@
   "description": "Test api for vercell deployment",
   "main": "index.js",
   "scripts": {
-    "start": "node ./build/index.js",
-    "build":"webpack --config webpack.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Manjunath Somawagol",
   "license": "ISC",
